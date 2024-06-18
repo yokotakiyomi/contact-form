@@ -27,4 +27,4 @@
 ## URL
 
  ・ 開発環境 ： http://localhost/ </br>
- ・ phpMyAdm : in:http://localhost:8080/
+ ・ phpMyAdm : http://localhost:8080/
