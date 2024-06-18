@@ -4,7 +4,7 @@
 
 ### Dockerビルド
 
-1. git cloneリンク　：　https://github.com/yokotakiyomi/contact-form.git
+1. git cloneリンク：https://github.com/yokotakiyomi/contact-form.git
 2. docker-compose up -d -build
 
 * MySQLは、OSによって起動しない場合があるのでそれぞれそれぞれのPCに合わせて docker-compose.ymlファイルを編集してください。
